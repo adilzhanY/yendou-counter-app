@@ -31,7 +31,7 @@ const Counter: React.FC = () => {
                     }}
                 >
                     <LuCircleCheck style={{ width: '24px', height: '24px', color: '#74C898' }} />
-                    <div> {/* Use a div or another span to handle line breaks and weights */}
+                    <div>
                         <span style={{ fontFamily: 'Inter', fontStyle: 'normal', fontWeight: 500, fontSize: '14px', lineHeight: '16px', color: '#FFFFFF' }}>
                             Incremented
                         </span>
